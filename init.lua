@@ -85,6 +85,7 @@ require("lazy").setup({
 				-- this is equivalent to setup({}) function
 			},
 			{ "neovim/nvim-lspconfig" },
+			{ "nvim-tree/nvim-tree.lua" },
 		},
 	},
 	-- Configure any other settings here. See the documentation for more details.
